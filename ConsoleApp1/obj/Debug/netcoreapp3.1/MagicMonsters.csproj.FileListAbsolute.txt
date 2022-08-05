@@ -1,0 +1,14 @@
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\bin\Debug\netcoreapp3.1\MagicMonsters.exe
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\bin\Debug\netcoreapp3.1\MagicMonsters.deps.json
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\bin\Debug\netcoreapp3.1\MagicMonsters.runtimeconfig.json
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\bin\Debug\netcoreapp3.1\MagicMonsters.runtimeconfig.dev.json
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\bin\Debug\netcoreapp3.1\MagicMonsters.dll
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\bin\Debug\netcoreapp3.1\MagicMonsters.pdb
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\obj\Debug\netcoreapp3.1\MagicMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\obj\Debug\netcoreapp3.1\MagicMonsters.AssemblyInfoInputs.cache
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\obj\Debug\netcoreapp3.1\MagicMonsters.AssemblyInfo.cs
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\obj\Debug\netcoreapp3.1\MagicMonsters.csproj.CoreCompileInputs.cache
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\obj\Debug\netcoreapp3.1\MagicMonsters.dll
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\obj\Debug\netcoreapp3.1\MagicMonsters.pdb
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\obj\Debug\netcoreapp3.1\MagicMonsters.genruntimeconfig.cache
+C:\Users\CGhionoiu\Documents\Learning_Csharp\LearningOOPwithCsharp\OOP_project\ConsoleApp1\obj\Debug\netcoreapp3.1\MagicMonsters.csproj.AssemblyReference.cache
