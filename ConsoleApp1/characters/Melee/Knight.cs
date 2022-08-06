@@ -12,7 +12,7 @@ namespace MagicMonsters.characters.Melee
         private int abilityPoints;
         private int healthPoints;
         private int level;
-        private int name;
+        private string name;
 
         private string faction;
 
